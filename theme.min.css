@@ -1,0 +1,25 @@
+
+.slider-slide{
+    display:-webkit-flex;
+    display:block;
+    -webkit-align-items:center;
+    align-items:center;
+    -webkit-justify-content:center;
+    justify-content:center;
+}
+.page-slider{
+    height: 1000px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   overflow-y: hidden;
+}
+
+
+@media screen and (min-width: 600px){
+
+    .main{
+        display:-webkit-flex;
+        display:flex
+    }
+}/*# sourceMappingURL=theme.min.css.map */
