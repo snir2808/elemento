@@ -1,9 +1,10 @@
 body,html{
     
-    background-image: url(./IMG/backgruond/justin-kauffman-yBQRV2c5J0o-unsplash.jpg);
+    /* background-image: url(./IMG/backgruond/justin-kauffman-yBQRV2c5J0o-unsplash.jpg); */
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #ededed;
 }
 
 
